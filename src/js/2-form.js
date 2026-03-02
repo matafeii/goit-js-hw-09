@@ -1,7 +1,6 @@
 const MAIN_KEY = 'feedback-form-state';
 
 const form = document.querySelector('.feedback-form');
-const textarea = document.querySelector('textarea');
 
 const formData =
 {
